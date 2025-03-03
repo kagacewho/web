@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body style= "background-image:url(https://avatars.yandex.net/get-music-content/8871869/cc73e00e.a.25839149-1/600x600);">
+</body>
+<header>
+    <img>
+<div>
+    <ul>
+        <li><a>Трусы</a></li>
+        
+
+    </ul>
+</div>
+<div>
+    <button onclick="window.location.href='https://ae04.alicdn.com/kf/S36efea2d04d543738462d475f39470f3i.jpg_640x640.jpg';">
+        Влада
+    </button>
+    <button onclick="window.location.href='https://funbox.ee/media/catalog/product/cache/441b20b75d6d2f0ed0624ad0dc9fd0bb/2/_/2_591_1.jpg';">Вовы</button>
+   
+</div>
+</header>
+<main>
+    <div>
+        <div>
+            <h1>  Свага </h1>
+            <p> Где?   </p>
+            <div>
+                <button onclick="window.location.href='https://img-webcalypt.ru/storage/memes/153683/20252/YXDuBqNaOeECzNTmEna66UjkytA3DiFQuSQ63fBKNwmAgGpvzj8CkiybmgFbHDXO91PvatTJPt9IOHvCFCEU9tgy4IutT9iJ7bWvP9YrOKqKxW30Z478SI8lJgZvpiyr.jpeg';"> тут </button>
+                <button> нет </button>
+            </div>
+
+
+        </div>
+
+
+    </div>
+    <div>
+        <img>
+    </div>
+</main>
+    <div>
+        <h2> свага мэрлин монро </h2>
+        <button onclick="window.location.href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEy31jugmwxoRvB31QIjpZwklY4_GNYS24w&s';"> оно? </button>   
+
+    </div>
+<footer>
+
+
+
+
+
+</footer>
+</html>
