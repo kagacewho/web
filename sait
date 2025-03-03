@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        h1{color:red}
+        h2{color:red}
+        a{color:red}
+        a{font-size: 50px;}
+        h1{font-size: 50px;}
+        h2{font-size: 50px;}
+    </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -12,8 +20,8 @@
     <img>
 <div>
     <ul>
-        <li><a>Трусы</a></li>
-        
+        <li><a>Чей подгон?</a></li> 
+       
 
     </ul>
 </div>
@@ -45,7 +53,7 @@
     </div>
 </main>
     <div>
-        <h2> свага мэрлин монро </h2>
+        <h2> Cвага мэрлин монро </h2>
         <button onclick="window.location.href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEy31jugmwxoRvB31QIjpZwklY4_GNYS24w&s';"> оно? </button>   
 
     </div>
